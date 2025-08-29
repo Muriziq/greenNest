@@ -6,7 +6,6 @@
   box-sizing: border-box;
 }
 body {
-  max-width: 100vw;
   position: relative;
   background-color: #ffffff;
 }
@@ -360,4 +359,7 @@ header p {
   color: #ffffff;
   border: none;
   font-family: "Lato", sans-serif;
+}
+.fifth-article{
+  
 }
